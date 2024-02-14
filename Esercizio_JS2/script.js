@@ -159,32 +159,3 @@ console.log(gender);
     }
 
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// for (let i = 1; i <= 100; i++) {
-//   let risultatoDaStampare = i
-//   let divisoreDiTre = i % 3 === 0
-//   let divisoreDiCinque = i % 5 === 0
-//   if (divisoreDiCinque && divisoreDiTre) {
-//     risultatoDaStampare = "FizzBuzz"
-//   } else if (divisoreDiTre) {
-//     risultatoDaStampare = "Fizz"
-//   } else if (divisoreDiCinque) {
-//     risultatoDaStampare = "Buzz"
-//   }
-//   console.log(risultatoDaStampare)
-// }
